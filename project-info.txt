@@ -1,0 +1,5 @@
+项目名称：SoftwareEngineering-GitLab
+
+实验目的：
+学习使用 Git 和 GitHub 进行代码版本管理，
+掌握分支开发、提交、推送和 Pull Request 协作流程。
